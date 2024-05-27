@@ -2,7 +2,7 @@
   "//": "BR Item Shop Config",
   "daily1": {
     "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
-    "price": 1500
+    "price": 100
   },
   "daily2": {
     "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
@@ -10,15 +10,15 @@
   },
   "daily3": {
     "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
-    "price": 1200
+    "price": 100
   },
   "daily4": {
     "itemGrants": ["AthenaDance:EID_Fresh"],
-    "price": 3500
+    "price": 100
   },
   "daily5": {
     "itemGrants": ["AthenaDance:EID_Floss"],
-    "price": 5000
+    "price": 100
   },
   "daily6": {
     "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
@@ -30,7 +30,7 @@
   },
   "featured2": {
     "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
-    "price": 2000
+    "price": 100
   },
   "featured3": {
     "itemGrants": ["AthenaDance:EID_KingEagle"],
